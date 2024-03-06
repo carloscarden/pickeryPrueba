@@ -32,7 +32,12 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+"scripts": [
+  "node_modules/packery/dist/packery.pkgd.min.js",
+  "node_modules/draggabilly/dist/draggabilly.pkgd.min.js"
+
+]
+
           },
           "configurations": {
             "production": {
